@@ -12,6 +12,7 @@
 		11D302BF226EBAEC008DA8BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11D302BD226EBAEC008DA8BB /* Main.storyboard */; };
 		11D302C1226EBAEC008DA8BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11D302C0226EBAEC008DA8BB /* Assets.xcassets */; };
 		11D302C4226EBAEC008DA8BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11D302C2226EBAEC008DA8BB /* LaunchScreen.storyboard */; };
+		11D302CC226EBD3D008DA8BB /* osaki4bansen3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 11D302CB226EBD3D008DA8BB /* osaki4bansen3.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		11D302C0226EBAEC008DA8BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11D302C3226EBAEC008DA8BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11D302C5226EBAEC008DA8BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11D302CB226EBD3D008DA8BB /* osaki4bansen3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = osaki4bansen3.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				11D302C0226EBAEC008DA8BB /* Assets.xcassets */,
 				11D302C2226EBAEC008DA8BB /* LaunchScreen.storyboard */,
 				11D302C5226EBAEC008DA8BB /* Info.plist */,
+				11D302CB226EBD3D008DA8BB /* osaki4bansen3.mp3 */,
 			);
 			path = AnimeExa;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11D302CC226EBD3D008DA8BB /* osaki4bansen3.mp3 in Resources */,
 				11D302C4226EBAEC008DA8BB /* LaunchScreen.storyboard in Resources */,
 				11D302C1226EBAEC008DA8BB /* Assets.xcassets in Resources */,
 				11D302BF226EBAEC008DA8BB /* Main.storyboard in Resources */,
